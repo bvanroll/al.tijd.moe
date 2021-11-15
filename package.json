@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bvanroll/al.tijd.moe/issues"
   },
-  "homepage": "https://github.com/bvanroll/al.tijd.moe#readme"
+  "homepage": "https://github.com/bvanroll/al.tijd.moe#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
